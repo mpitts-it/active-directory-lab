@@ -103,3 +103,91 @@ This project showed me how much control IT departments have over an organization
 
 Going forward I want to improve my ability to manage Active Directory through PowerShell and the command line rather than relying solely on the graphical interface. I also want to learn more about creating shared folders with group based permissions so that only authorized security groups can access specific resources — connecting Active Directory group membership directly to file system access control.
 
+## Screenshots
+
+### Proxmox DC01 VM
+![Proxmox DC01](01_proxmox_DC01_vm_created.png)
+
+### Windows Server Setup
+![Windows Server Setup](02_windows_server_setup_wizard.png)
+
+### Windows Server Installing
+![Installing](03_windows_installing.png)
+
+### Windows Server Installed
+![Installed](04_windows_server_installed.png)
+
+### Server Manager
+![Server Manager](05_windows_server_manager.png)
+
+### VirtIO Drivers Installed
+![VirtIO Drivers](06_virtio_drivers_installed.png)
+
+### Static IP Configured
+![Static IP](07_static_ip_configured.png)
+
+### DC01 Server Properties
+![Server Properties](08_DC01_server_properties.png)
+
+### AD DS Installed
+![AD DS Installed](09_AD_DS_installed.png)
+
+### AD DS Review Options
+![Review Options](10_AD_DS_review_options.png)
+
+### Prerequisites Passed
+![Prerequisites](11_AD_DS_prerequisites_passed.png)
+
+### Domain Controller Login
+![DC Login](12_domain_controller_login.png)
+
+### Domain Controller Server Manager
+![DC Server Manager](13_domain_controller_server_manager.png)
+
+### OU Structure
+![OU Structure](14_AD_OU_structure.png)
+
+### Users Created
+![Users](15_AD_users_created.png)
+
+### Group Members
+![Group Members](16_AD_group_members.png)
+
+### User Management Options
+![User Management](17_AD_user_management_options.png)
+
+### Password Policy
+![Password Policy](18_password_policy_configured.png)
+
+### Account Lockout Policy
+![Account Lockout](19_account_lockout_configured.png)
+
+### USB Policy
+![USB Policy](20_USB_policy_configured.png)
+
+### Security Options
+![Security Options](21_security_options_configured.png)
+
+### Windows 10 Installing
+![Windows 10 Installing](22_windows10_installing.png)
+
+### Windows 10 Desktop
+![Windows 10 Desktop](23_windows10_desktop.png)
+
+### Network Connectivity Verified
+![Network Connectivity](24_network_connectivity_verified.png)
+
+### Domain Join Success
+![Domain Join](25_domain_join_success.png)
+
+### Group Policy Login Banner
+![Login Banner](26_group_policy_login_banner.png)
+
+### Domain User Login Success
+![Domain Login](27_domain_user_login_success.png)
+
+### WKSTN01 Domain Confirmed
+![WKSTN01 Domain](28_WKSTN01_domain_confirmed.png)
+
+### WKSTN01 in Active Directory
+![WKSTN01 in AD](29_WKSTN01_in_AD.png)
